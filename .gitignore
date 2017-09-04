@@ -2,6 +2,22 @@
 /build/
 /out/
 
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### NetBeans ###
+nbproject/private/
+build/
+nbuild/
+dist/
+nbdist/
+.nb-gradle/
+
 # Ignore Gradle GUI config
 gradle-app.setting
 
